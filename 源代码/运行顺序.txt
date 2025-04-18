@@ -1,0 +1,9 @@
+1. analyse.py
+2. data_preprocessing.py
+3. step1_continuous_binning_woe.py
+4. step2_discrete_category_woe.py
+5. variable_selection.py
+6. model_training.py
+7. model_evaluation.py
+8. model_prediction.py （得到天池比赛测试集预测结果）
+9. model_scoring_card.py  （得到测试集风险评分）
